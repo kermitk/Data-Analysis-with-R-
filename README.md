@@ -1,2 +1,2 @@
 # Data-Analysis-with-R-
-This repository contains all the projects I have created using R. 
+This repository contains all the projects including Udacity's course with R . 
